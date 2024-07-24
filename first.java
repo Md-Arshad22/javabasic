@@ -2,7 +2,7 @@ class first {
 
     public static void main(String[] args) {
         String ame ="mani";
-    System.out.print(ame);
+    System.out.println(ame);
 
     }
  
