@@ -4,6 +4,5 @@ class first {
     System.out.println(ame);
 
     }
- 
 }
 
