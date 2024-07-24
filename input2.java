@@ -28,6 +28,7 @@ public class input2
         System.out.println("City : " + city);
         
         System.out.println("trade : " + trade);
+        
         System.out.println("phn : " + phn);
 
     }
