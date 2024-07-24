@@ -13,6 +13,7 @@ public class input2
         
         System.out.println("Enter your city");
         String city = sc.next();
+        
         System.out.println("Enter your trade");
         String trade = sc.next();
         System.out.println("Enter your phn");
