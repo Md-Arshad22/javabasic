@@ -1,5 +1,5 @@
 
-ublic class sump {
+public class sump {
     public static void main(String[] args) {
         int a = 0;
         for (int i = 0; i < 10; i++) {
