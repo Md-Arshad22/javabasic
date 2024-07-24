@@ -4,7 +4,7 @@ public class sump {
         int a = 0;
         for (int i = 0; i < 10; i++) {
             a = a + i;
-            System.out.println(a);
+            System.out.print(a);
         }
     }
 }
