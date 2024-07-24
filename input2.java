@@ -22,6 +22,5 @@ public class inputt
         System.out.println("trade : " + trade);
         System.out.println("phn : " + phn);
 
-
     }
 }
