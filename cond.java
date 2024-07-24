@@ -1,2 +1,4 @@
 import java.util.Scanner;
-public class cond 
+public class cond {
+
+}
