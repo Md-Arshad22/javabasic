@@ -16,6 +16,7 @@ public class input2
         
         System.out.println("Enter your trade");
         String trade = sc.next();
+        
         System.out.println("Enter your phn");
         int phn = sc.nextInt();
         System.out.println("Name : " + name);
