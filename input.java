@@ -13,6 +13,7 @@ public class input {
         System.out.println("Enter second name");
         String user = nu.nextLine();  
         // Read user input
-        System.out.println("Username is: " + userName + " " + user);  // Output user input
+        System.out.println("Username is: " + userName + " " + user);  
+        // Output user input
     }
 }
