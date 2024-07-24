@@ -10,6 +10,7 @@ public class input2
         
         System.out.println("Enter your age");
         int age = sc.nextInt();
+        
         System.out.println("Enter your city");
         String city = sc.next();
         System.out.println("Enter your trade");
