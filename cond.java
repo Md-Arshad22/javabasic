@@ -9,5 +9,8 @@ public class cond {
     else if(a<0) {
       System.out.println("negative");
     }
+    else {
+      System.out.println("zero");
+    }
   }
 }
